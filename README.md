@@ -1,5 +1,4 @@
 # sysopctl
-# sysopctl
 
 `sysopctl` is a custom system management utility designed to manage Linux system services, monitor system health, and handle resource management tasks.
 
