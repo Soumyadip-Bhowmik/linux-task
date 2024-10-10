@@ -1,0 +1,9 @@
+
+---
+
+### Step 3: Upload Files to GitHub
+1. In your repository, click the **"Add file"** button and then select **"Upload files"**.
+2. Drag and drop the `sysopctl.sh` and `README.md` files into the upload area.
+3. Click **"Commit changes"** to save the files to your GitHub repository.
+
+This way, you can get your code hosted on GitHub without needing a local Linux system. Let me know if you'd like more help with customizing the scripts or uploading them!
